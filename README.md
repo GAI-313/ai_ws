@@ -57,3 +57,15 @@
    ```
    pip install -r requirements.txt
    ```
+
+## 起動
+　プロジェクトディレクトリ内で以下のコマンドを実行すると jypiter notebook が起動します。
+```bash
+jupyter notebook
+```
+
+## 仮想環境の終了
+　以下のコマンドを実行すると仮想環境が終了します。
+```bash
+deactivate
+```
