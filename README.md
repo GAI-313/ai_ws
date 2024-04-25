@@ -64,6 +64,11 @@
 jupyter notebook
 ```
 
+以下のようなエラーメッセージが表示されたら、`ai_ws/bin/activate` を通していないことを示しています。 
+```
+-bash: jupyter: command not found
+```
+
 ## 仮想環境の終了
 　以下のコマンドを実行すると仮想環境が終了します。
 ```bash
