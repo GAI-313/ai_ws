@@ -72,6 +72,12 @@ jupyter notebook
 -bash: jupyter: command not found
 ```
 
+## パッケージの更新
+　仮想環境で新たなパッケージをインストールした場合は、`ai_ws` 直下に移動して以下のコマンドを実行して、 `requirements.txt` を更新してください。
+```bash
+pip freeze > requirements.txt
+```
+
 ## 仮想環境の終了
 　以下のコマンドを実行すると仮想環境が終了します。
 ```bash
