@@ -83,8 +83,3 @@ pip freeze > requirements.txt
 ```bash
 deactivate
 ```
-
-# 人工知能課題アーカイブ
-
-- **[第3回目](projects/ai_ws/3)** <br>
-    `numpy` について
