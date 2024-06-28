@@ -2,7 +2,7 @@
 .DS_Store
 .ipynb_checkpoints
 
-projects/ai_ws/*
-projects/fourier_prj/*
-!projects/ai_ws/.gitkeep
-!projects/fourier_prj/.gitkeep
+/projects/ai_ws/*
+/projects/fourier_prj/*
+!/projects/ai_ws/.gitkeep
+!/projects/fourier_prj/.gitkeep
